@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "the script is ./0-current_working_directory"
+echo "./0-current_working_directory"
